@@ -6,6 +6,9 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "react-native": "0.76.2"
+    "expo": "^52.0.9",
+    "react-native": "0.76.2",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-screens": "^4.2.0"
   }
 }
